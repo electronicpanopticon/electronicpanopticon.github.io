@@ -1,9 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "So It Begins"
 date:   2020-10-21 09:20:15 -0400
 categories: stuff
 ---
+
+OK, here we go. 
+
+First off, how cool is this [MIT license generator](https://electronicpanopticon.mit-license.org/)? 
+
+## Original stuff
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
@@ -27,3 +34,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
